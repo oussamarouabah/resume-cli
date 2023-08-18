@@ -15,13 +15,13 @@ To install and use the portfolio, you need to have Go programming language insta
 
 Once Rust is installed, you can clone this repository:
 
-```
+```bash
 git clone https://github.com/your-username/rust-cli-portfolio.git
 ```
 
 After the build process is completed, you can run the portfolio:
 
-```
+```bash
 go run main.go
 ```
 
