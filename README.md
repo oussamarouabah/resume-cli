@@ -1,6 +1,6 @@
 # Resume CLI
 
-This is a command-line interface (CLI) portfolio made using Rust. It provides a simple and interactive way to showcase your internships/projects and skills in a terminal environment. With this portfolio, you can easily manage and present your work to others.
+This is a command-line interface (CLI) portfolio made using Go. It provides a simple and interactive way to showcase your internships/projects and skills in a terminal environment. With this portfolio, you can easily manage and present your work to others.
 
 ## Features
 
@@ -11,7 +11,7 @@ This is a command-line interface (CLI) portfolio made using Rust. It provides a 
 
 ## Installation
 
-To install and use the portfolio, you need to have Rust programming language installed on your system. Please follow the official Rust documentation to install [Rust](https://www.rust-lang.org/tools/install)
+To install and use the portfolio, you need to have Go programming language installed on your system. Please follow the official Go documentation to install [Go](https://go.dev/doc/install)
 
 Once Rust is installed, you can clone this repository:
 
@@ -19,16 +19,10 @@ Once Rust is installed, you can clone this repository:
 git clone https://github.com/your-username/rust-cli-portfolio.git
 ```
 
-Build the project:
-
-```
-cargo build
-```
-
 After the build process is completed, you can run the portfolio:
 
 ```
-cargo run
+go run main.go
 ```
 
 ## Contributing
