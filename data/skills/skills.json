@@ -1,0 +1,6 @@
+{
+  "web-technologies": "HTML, CSS, React.js, Node.js, Express.js, MongoDB, Django, ether.js, web3.js",
+  "languages": "Python, Solidity, Javascript, Typescript, Rust, C, C++, SQL",
+  "ai-ml": "Tensorflow, PyTorch, Scikit-learn, Pandas, Numpy, NLP, CV",
+  "dev-ops": "AWS, GCP, Docker"
+}
