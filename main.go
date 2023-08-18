@@ -11,7 +11,6 @@ import (
 
 // the questions to ask
 var qs = &survey.Question{
-
 	Name: "choice",
 	Prompt: &survey.Select{
 		Message: "What would you like to know?",
